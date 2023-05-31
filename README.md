@@ -5,8 +5,10 @@ Junior Fullstack Web Developer (MERN)
 -------------------------------------
 
 *   🌍  I'm based in Oberhausen
-*   ✉️  You can contact me at [katharina@groller.de](mailto:katharina@groller.de)<a href="https://www.github.com/Katharina-Groller" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/Katharina-Groller?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+*   ✉️  You can contact me at [katharina@groller.de](mailto:katharina@groller.de)
+<br>
+<a href="https://www.github.com/Katharina-Groller" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Katharina-Groller?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
                   <br>
 ### Skills 
 <p align="left">

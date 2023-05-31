@@ -10,6 +10,7 @@ Junior Fullstack Web Developer (MERN)
 <a href="https://www.github.com/Katharina-Groller" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Katharina-Groller?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
                   <br>
+                  
 ### Skills 
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>

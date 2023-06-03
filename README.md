@@ -8,7 +8,7 @@ Junior Fullstack Web Developer (MERN)
 Glad to see u here :relaxed: .	
 
 *   🌍  I'm based in Oberhausen 
-*       I'm a Junior Developer Student
+* I'm a Junior Developer Student
 *   ✉️  You can contact me at [katharina@groller.de](mailto:katharina@groller.de)
 <br>
 <a href="https://www.github.com/Katharina-Groller" target="_blank" rel="noreferrer"><img

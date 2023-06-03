@@ -1,4 +1,6 @@
-Welcome :nerd_face: My name is Kathi 
+Welcome :nerd_face: 
+<br> 
+My name is Kathi 
 ==================================
 
 Junior Fullstack Web Developer (MERN)

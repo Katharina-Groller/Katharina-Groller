@@ -1,4 +1,4 @@
-Hi 👋 My name is Katharina Groller
+Welcome :nerd_face: My name is Kathi 
 ==================================
 
 Junior Fullstack Web Developer (MERN)

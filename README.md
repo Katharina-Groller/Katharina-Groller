@@ -12,6 +12,8 @@ Glad to see u here :relaxed: .
 *   ✉️  You can contact me at [katharina@groller.de](mailto:katharina@groller.de)
 <br>
 
+<iframe src="https://api.eu.badgr.io/public/assertions/9KWPrnd9RrGun1kVURBHuA?embedVersion=1&amp;embedWidth=330&amp;embedHeight=191&amp;identity__email=katharina%40groller.de" title="Badge: Development newbie - 2 stars" style="width: 330px; height: 191px; border: 0px;"></iframe>
+
 
 <br>
                   

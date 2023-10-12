@@ -34,4 +34,6 @@ Glad to see u here :relaxed: .
 <p align="left">
 <a href="https://www.github.com/Katharina-Groller" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" color/></a>
 <a href="https://www.linkedin.com/in/katharina-groller-354362276/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+![image](https://github.com/Katharina-Groller/Katharina-Groller/assets/110825829/21d9eed0-c9fb-4abf-9429-670ab40b2865)
+
 

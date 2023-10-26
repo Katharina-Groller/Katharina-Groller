@@ -52,18 +52,6 @@ Glad to see u here :relaxed: .
 
 
 
-![github (1)](https://github.com/Katharina-Groller/Katharina-Groller/assets/110825829/8bf9a722-7b6e-4a30-b800-24e8bcf0fa31)
-![linkedin](https://github.com/Katharina-Groller/Katharina-Groller/assets/110825829/43e66e71-c208-4845-a49a-a9d69ae0a3b5)
-![git](https://github.com/Katharina-Groller/Katharina-Groller/assets/110825829/6d051807-62c4-4f3d-9e82-fddd7151d099)
-![javascript](https://github.com/Katharina-Groller/Katharina-Groller/assets/110825829/0f8fdc6d-7da7-467d-a62b-36fba920d27b)
-![atom](https://github.com/Katharina-Groller/Katharina-Groller/assets/110825829/dbe79c80-a39d-4e95-8ca6-65eceda31e0c)
-![html](https://github.com/Katharina-Groller/Katharina-Groller/assets/110825829/6a8f95de-8cfd-41b1-bf38-1e436b3bf749)
-![css](https://github.com/Katharina-Groller/Katharina-Groller/assets/110825829/8918f823-60f6-484f-b200-befec9e09ac8)
-![sass](https://github.com/Katharina-Groller/Katharina-Groller/assets/110825829/97d74eae-dac6-44ef-8c62-31639af456ff)
-![bootstrap](https://github.com/Katharina-Groller/Katharina-Groller/assets/110825829/f46dd64c-65a9-4361-85fb-9d50a2e17bbf)
-![mysql](https://github.com/Katharina-Groller/Katharina-Groller/assets/110825829/b3cd4cd5-73f9-440f-bc77-d804dae67817)
-![mongodb](https://github.com/Katharina-Groller/Katharina-Groller/assets/110825829/797ece7c-e147-4f16-9b06-924eb96cb8f6)
-
 
 
 

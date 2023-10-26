@@ -1,4 +1,4 @@
-![github (1)](https://github.com/Katharina-Groller/Katharina-Groller/assets/110825829/8bf9a722-7b6e-4a30-b800-24e8bcf0fa31)Welcome :nerd_face: 
+Welcome :nerd_face: 
 <br> 
 My name is Kathi 
 ==================================
@@ -45,11 +45,11 @@ Glad to see u here :relaxed: .
 <a href="https://www.github.com/Katharina-Groller" target="_blank" rel="noreferrer">
          <img src="https://github.com/Katharina-Groller/Katharina-Groller/assets/110825829/b11648c0-4caa-47c0-a0ff-6b18dcabce76" width="80" height="80" />
 </a>
-<a href="https://www.linkedin.com/in/katharina-g-354362276/" target="_blank" rel="noreferrer"><img src="https://github.com/Katharina-Groller/Katharina-Groller/assets/110825829/ce281c5f-2974-4f22-bd1a-9bd77d106801" width="80" height="80" /></a></p>
+<a href="https://www.linkedin.com/in/katharina-g" target="_blank" rel="noreferrer"><img src="https://github.com/Katharina-Groller/Katharina-Groller/assets/110825829/43e66e71-c208-4845-a49a-a9d69ae0a3b5" width="80" height="80" /></a></p>
 
 
 
-
+![github (1)](https://github.com/Katharina-Groller/Katharina-Groller/assets/110825829/8bf9a722-7b6e-4a30-b800-24e8bcf0fa31)
 ![linkedin](https://github.com/Katharina-Groller/Katharina-Groller/assets/110825829/43e66e71-c208-4845-a49a-a9d69ae0a3b5)
 ![git](https://github.com/Katharina-Groller/Katharina-Groller/assets/110825829/6d051807-62c4-4f3d-9e82-fddd7151d099)
 ![javascript](https://github.com/Katharina-Groller/Katharina-Groller/assets/110825829/0f8fdc6d-7da7-467d-a62b-36fba920d27b)

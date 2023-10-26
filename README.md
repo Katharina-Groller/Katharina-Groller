@@ -42,10 +42,13 @@ Glad to see u here :relaxed: .
 
 ### Socials
 <p align="left">
-<a href="https://www.github.com/Katharina-Groller" target="_blank" rel="noreferrer">
-         <img src="https://github.com/Katharina-Groller/Katharina-Groller/assets/110825829/b11648c0-4caa-47c0-a0ff-6b18dcabce76" width="80" height="80" />
+<a href="https://www.github.com/Katharina-Groller" target="_blank" >
+<img src="https://github.com/Katharina-Groller/Katharina-Groller/assets/110825829/b11648c0-4caa-47c0-a0ff-6b18dcabce76" width="80" height="80" />
 </a>
-<a href="https://www.linkedin.com/in/katharina-g" target="_blank" rel="noreferrer"><img src="https://github.com/Katharina-Groller/Katharina-Groller/assets/110825829/43e66e71-c208-4845-a49a-a9d69ae0a3b5" width="80" height="80" /></a></p>
+<a href="https://www.linkedin.com/in/katharina-g" target="_blank">
+<img src="https://github.com/Katharina-Groller/Katharina-Groller/assets/110825829/43e66e71-c208-4845-a49a-a9d69ae0a3b5" width="80" height="80" />
+</a>
+</p>
 
 
 

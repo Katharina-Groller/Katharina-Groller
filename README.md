@@ -23,10 +23,10 @@ Glad to see u here :relaxed: .
          
 ### Skills 
 <p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/nolan/64/git.png" alt="git" width="36" height="36" alt="Git" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/html.png" alt="html" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/clouds/100/react.png" width="65" height="65" alt="React" /></a>
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
@@ -43,16 +43,16 @@ Glad to see u here :relaxed: .
 ### Socials
 <p align="left">
 <a href="https://www.github.com/Katharina-Groller" target="_blank" >
-<img src="https://github.com/Katharina-Groller/Katharina-Groller/assets/110825829/b11648c0-4caa-47c0-a0ff-6b18dcabce76" width="80" height="80" />
+<img src="https://img.icons8.com/clouds/100/github.png" alt="github" width="80" height="80" />
 </a>
 <a href="https://www.linkedin.com/in/katharina-g" target="_blank">
-<img src="https://github.com/Katharina-Groller/Katharina-Groller/assets/110825829/43e66e71-c208-4845-a49a-a9d69ae0a3b5" width="80" height="80" />
+<img src="https://img.icons8.com/clouds/100/linkedin.png" alt="linkedin" width="80" height="80" />
 </a>
 </p>
 
 
 
 
-
+<a  href="https://icons8.com/icon/xBKl2pdJg5kk/git">Git</a> icon by <a href="https://icons8.com">Icons8</a>
 
 
